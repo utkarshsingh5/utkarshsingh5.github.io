@@ -19,7 +19,7 @@
     <div class="container">
       <div class="row">
         <header class="text-center col-12">
-          <h1><strong>THE BIGGEST STARTUP EVENT OF THE YEAR</strong></h1>
+          <h1><strong>THE BIGGEST HACKATHON OF THE YEAR</strong></h1>
         </header>
         <div class="buffer col-12"></div>
         <section class="text-center col-12">
